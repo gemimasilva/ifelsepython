@@ -20,3 +20,4 @@ if idade >= 18:
 else:
     print("Você é menor de idade.")
     
+    
